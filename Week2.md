@@ -192,7 +192,7 @@ FROM Products
 ```
 
 - count function  
-COUNT（\*): counts all the rows in a table containing values or NULL values    
+COUNT(\*): counts all the rows in a table containing values or NULL values    
 COUNT(col): counts all the rows in a specific col ignoring NULL values  
 
 - MAX and MIN function  
@@ -214,10 +214,10 @@ instead use HAVING clause to filter for groups
 ```
 SELECT
 CustomerID
-,COUNT(\*) AS orders
+,COUNT(*) AS orders
 FROM Orders
 GROUP BY CustomerID
-HAVING COUNT (\*) >= 2;
+HAVING COUNT (*) >= 2;
 ```
 - WHERE vs. HAVING  
 WHERE filters before data is grouped  
