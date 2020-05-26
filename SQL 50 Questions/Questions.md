@@ -7,4 +7,9 @@
 3. Query information about students with grades in SC table  
 4. Query the student numbers, student names, total number of courses selected, and the total score of all courses for all students  
 4.1. Query information of students who have scores
-5. Query the number of teachers whose last name is li
+5. Query the number of teachers whose last name is li  
+6. Query information about students taught by teacher 'zhangsan'  
+7. Query information about students who have not completed all courses  
+8. Query information about students who have at least one course same as course which student '01' take  
+9. Query information about other students who have the same courses as the student "01"  
+10. Query information of students who have not studied any course taught by "zhangsan"  
