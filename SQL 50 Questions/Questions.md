@@ -21,3 +21,10 @@
     -  Pass: >= 60, medium: 70-80, good: 80-90, excellent: >= 90;  
     -  Require to output the course number and the number of students. The query results are arranged in descending order of the number of persons, and if the number of persons is the same, they are arranged in ascending order of the course number.  
 15. Sort scores of each subject and display the ranking. Keep the vacancies when the score is repeated.  
+16. Query and rank students' total scores. If the total scores are repeated, no vacancies will be reserved.  
+17.  Count the number of students in each grade segment of every subjects: course number, course name, percentage of [100-85], [85-70], [70-60] and [60-0]  
+18. Query the information of top 3 students in each subject  
+19. Query the number of students selected for each course  
+20. Query the student ID and name of students who only take two courses  
+
+
