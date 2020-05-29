@@ -26,5 +26,9 @@
 18. Query the information of top 3 students in each subject  
 19. Query the number of students selected for each course  
 20. Query the student ID and name of students who only take two courses  
+21. Query the number of males and females  
+22. Query information about students whose name contain "feng"  
+23. 
+
 
 
