@@ -28,7 +28,16 @@
 20. Query the student ID and name of students who only take two courses  
 21. Query the number of males and females  
 22. Query information about students whose name contain "feng"  
-23. 
+23. Query the list of students with the same name and the number of students with the same name  
+24. Query the list of students born in 1990  
+25. Query the average score of each course. The results are sorted in descending order of average grade. When the average grades are the same, they are sorted in ascending order of course number.  
+26. Query the student ID, name and average score of students whose average score is greater than or equal to 85.  
+27. Query the name and score of students whose course name is "Math" and score is less than 60.  
+28. Query all students' courses and scores. (It is possible that students have no grades and no courses).  
+29. Query students name, course name and score for any course with scores above 70.  
+30. Query course which some students fail.  
+
+
 
 
 
