@@ -36,6 +36,21 @@
 28. Query all students' courses and scores. (It is possible that students have no grades and no courses).  
 29. Query students name, course name and score for any course with scores above 70.  
 30. Query course which some students fail.  
+31. Query ID and name of students whose score of course '01' is higher than 80.  
+32. Query information and score of students who choose the course taught by teacher 'zhangsan' and get the highest score in this course. The score is not repeated.  
+33. Query information and score of students who choose the course taught by teacher 'zhangsan' and get the highest score in this course. The score may be repeated.  
+34. Query student ID, course ID and score of students who have the same score in different courses  
+35. Query the number of students choosing every course (only show record with more than 5 students).  
+36. Query information of students who choose more than 2 courses.  
+37. Query information of students who choose all courses.  
+38. Query students' age. Only consider year.  
+39. Query students' age. Consider birth date. 
+40. 
+
+
+
+
+
 
 
 
