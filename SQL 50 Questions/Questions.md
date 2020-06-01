@@ -45,7 +45,12 @@
 37. Query information of students who choose all courses.  
 38. Query students' age. Only consider year.  
 39. Query students' age. Consider birth date. 
-40. 
+40. Query information of students who will celebrate birthday this week.  
+41. Query information of students who will celebrate birthday the next week.  
+42. Query information of students who will celebrate birthday this month.  
+43. Query information of students who will celebrate birthday the next month.  
+
+
 
 
 
